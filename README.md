@@ -20,7 +20,7 @@ The project uses **JSON Server** as a fake REST API to serve movie data.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/movies-app.git
+   git clone https://github.com/MarkoSimic0605/movies-app.git
    cd movies-app
    ```
    Install JSON Server (if not already installed)
@@ -29,7 +29,7 @@ npm install -g json-server
 
 Run JSON Server
 
-json-server --watch db.json --port 3000
+json-server --watch movies.json --port 3000
 
 API will be available at:
 http://localhost:3000/movies
