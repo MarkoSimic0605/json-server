@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>All Movies</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>All Movies</h1>
+
+    <!-- Search -->
+    <input type="text" id="searchInput" placeholder="Search movies..." />
+
+    <!-- Genre buttons -->
+    <div id="genreButtons">
+      <button data-genre="all">All Genres</button>
+      <button data-genre="Action">Action</button>
+      <button data-genre="Comedy">Comedy</button>
+      <button data-genre="Drama">Drama</button>
+      <button data-sort="desc">Sort by Rating ↓</button>
+      <button data-sort="asc">Sort by Rating ↑</button>
+    </div>
+
+    <!-- Movie list -->
+    <div id="movieList"></div>
+
+    <script type="module" src="src/main.js"></script>
+  </body>
+</html>

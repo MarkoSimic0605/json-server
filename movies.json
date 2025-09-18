@@ -1,0 +1,129 @@
+{
+  "movies": [
+    {
+      "id": "m001",
+      "title": "Inception",
+      "year": 2010,
+      "rating": 8.8,
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
+      "description": "A skilled thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea.",
+      "details": {
+        "genre": "Sci-Fi",
+        "duration": "148 min",
+        "director": "Christopher Nolan"
+      }
+    },
+    {
+      "id": "m002",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "rating": 9.3,
+      "image": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_.jpg",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "details": {
+        "genre": "Drama",
+        "duration": "142 min",
+        "director": "Frank Darabont"
+      }
+    },
+    {
+      "id": "m003",
+      "title": "Parasite",
+      "year": 2019,
+      "rating": 8.6,
+      "image": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "details": {
+        "genre": "Thriller",
+        "language": "Korean",
+        "awards": "Best Picture Oscar"
+      }
+    },
+    {
+      "id": "m004",
+      "title": "The Godfather",
+      "year": 1972,
+      "rating": 9.2,
+      "image": "https://m.media-amazon.com/images/I/41+eK8zBwQL._AC_.jpg",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son.",
+      "details": {
+        "genre": "Crime",
+        "duration": "175 min",
+        "director": "Francis Ford Coppola"
+      }
+    },
+    {
+      "id": "m005",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9.0,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563214668l/49297943.jpg",
+      "description": "When the menace known as the Joker emerges, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "details": {
+        "genre": "Action",
+        "duration": "152 min",
+        "main villain": "Joker"
+      }
+    },
+    {
+      "id": "m006",
+      "title": "La La Land",
+      "year": 2016,
+      "rating": 8.0,
+      "image": "https://i0.wp.com/letsoverthinkthat.com/wp-content/uploads/2019/03/La-La-Land-Poster-I.jpeg?w=531&h=796&ssl=1",
+      "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations.",
+      "details": {
+        "genre": "Musical",
+        "music by": "Justin Hurwitz"
+      }
+    },
+    {
+      "id": "m007",
+      "title": "Interstellar",
+      "year": 2014,
+      "rating": 8.6,
+      "image": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "details": {
+        "genre": "Sci-Fi",
+        "duration": "169 min",
+        "themes": ["Time", "Space", "Love"]
+      }
+    },
+    {
+      "id": "m008",
+      "title": "Fight Club",
+      "year": 1999,
+      "rating": 8.8,
+      "image": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "description": "An insomniac office worker and a soap maker form an underground fight club that evolves into something much more.",
+      "details": null
+    },
+    {
+      "id": "m009",
+      "title": "Coco",
+      "year": 2017,
+      "rating": 8.4,
+      "image": "https://play-lh.googleusercontent.com/MEI4pByMn3HN4b4afi4svYGT4ADCldjiXVCoL3lx83X-BUYM5q2kmPdhVslCkG9o2yV2Yiubkq-2CqqSpI4",
+      "description": "Aspiring musician Miguel enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+      "details": {
+        "genre": "Animation",
+        "language": "Spanish/English",
+        "studio": "Pixar"
+      }
+    },
+    {
+      "id": "m010",
+      "title": "Spirited Away",
+      "year": 2001,
+      "rating": 8.6,
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png",
+      "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, spirits, and a witch.",
+      "details": {
+        "genre": "Fantasy",
+        "studio": "Studio Ghibli",
+        "language": "Japanese"
+      }
+    }
+  ]
+}
